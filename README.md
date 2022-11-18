@@ -8,7 +8,7 @@ Lets play The Hangman game!
 * Text file with words
 
 **Run the game:**
-* <file path>/python hangman.py
+* file path/python hangman.py
 
 
 The game chooses a word and you need to guess it. In every round enter a letter that you think is part of the secret word.  
